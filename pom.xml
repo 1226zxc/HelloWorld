@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <springboot.version>2.1.8.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <dubbo.version>1.0.0</dubbo.version>
         <hello-world-api.version>0.0.1-SNAPSHOT</hello-world-api.version>
     </properties>
